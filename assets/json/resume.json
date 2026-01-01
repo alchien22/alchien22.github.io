@@ -147,40 +147,22 @@
     {
       "name": "Programming",
       "level": "Advanced",
-      "keywords": [
-        "Python",
-        "C++",
-        "C"
-      ]
+      "keywords": ["Python", "C++", "C"]
     },
     {
       "name": "ML / DL Frameworks",
       "level": "Advanced",
-      "keywords": [
-        "PyTorch",
-        "Hugging Face Transformers",
-        "scikit-learn",
-        "DeepSpeed"
-      ]
+      "keywords": ["PyTorch", "Hugging Face Transformers", "scikit-learn", "DeepSpeed"]
     },
     {
       "name": "Data & Visualization",
       "level": "Advanced",
-      "keywords": [
-        "NumPy",
-        "Pandas",
-        "Matplotlib"
-      ]
+      "keywords": ["NumPy", "Pandas", "Matplotlib"]
     },
     {
       "name": "Systems / Tooling",
       "level": "Advanced",
-      "keywords": [
-        "Linux",
-        "Git",
-        "Docker",
-        "Weights & Biases"
-      ]
+      "keywords": ["Linux", "Git", "Docker", "Weights & Biases"]
     }
   ],
   "volunteer": [
@@ -206,20 +188,11 @@
   "interests": [
     {
       "name": "Multimodal and Embodied AI",
-      "keywords": [
-        "Vision-language models",
-        "Embodied agents",
-        "Grounded reasoning"
-      ]
+      "keywords": ["Vision-language models", "Embodied agents", "Grounded reasoning"]
     },
     {
       "name": "Safety and Reliability",
-      "keywords": [
-        "Alignment",
-        "Guardrails",
-        "Hallucination detection",
-        "Trust calibration"
-      ]
+      "keywords": ["Alignment", "Guardrails", "Hallucination detection", "Trust calibration"]
     }
   ],
   "languages": [
