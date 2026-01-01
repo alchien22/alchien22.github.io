@@ -1,200 +1,237 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alexander Chien",
+    "label": "B.S. Computer Science Candidate | Undergraduate Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "alexchien22@ucla.edu",
+    "phone": "(951) 892-9896",
+    "summary": "Undergraduate researcher focused on multimodal/embodied AI, agentic systems, and safety & reliability. Experience spans vision-language model safety evaluation, synthetic data generation for embodied agents, and structured/constraint-based methods for reliable generation.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "alexander-chien",
+        "url": "https://www.linkedin.com/in/alexander-chien"
+      },
+      {
+        "network": "GitHub",
+        "username": "alchien22",
+        "url": "https://www.github.com/alchien22"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "University of California, Los Angeles (UCLA)",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.ucla.edu/",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-01",
+      "score": "3.7/4.0",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Neural Networks and Deep Learning",
+        "Deep Learning for Computer Vision",
+        "Foundations of Computer Vision",
+        "Probabilistic Models in Genomics",
+        "Signal Processing",
+        "Introduction to Robotics",
+        "Advanced Neural Networks and Deep Learning (Graduate)",
+        "Computational Imaging (Graduate)",
+        "Human Factors in AI (Graduate)"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence",
+      "publisher": "NeurIPS 2025 Datasets and Benchmarks Track (Spotlight)",
+      "releaseDate": "2025-09-18",
+      "url": "https://openreview.net/forum?id=8wyCbbzF4Q",
+      "summary": "Co-authored a benchmark and dataset for evaluating agents that integrate web interaction with embodied/physical context, supporting research on grounded, multimodal, and agentic intelligence."
+    }
+  ],
+  "work": [
+    {
+      "name": "A10 Networks",
+      "position": "Multimodal Safety Research Intern",
+      "url": "https://www.a10networks.com/",
+      "location": "San Jose, CA",
+      "startDate": "2025-06-01",
+      "endDate": "2025-12-01",
+      "summary": "Conducted research on multimodal safety alignment for vision–language systems, focusing on failure cases in visual grounding, efficiency constraints, and adversarial robustness. Designed and evaluated a vision–language guardrail model and initiated a scalable multimodal safety dataset derived from large pretraining corpora.",
+      "highlights": [
+        "Characterized failure patterns across grounding, latency, and coverage dimensions.",
+        "Implemented evaluation harness for robustness under visually distracting inputs.",
+        "Established end-to-end data pipeline toward public multimodal safety release."
+      ]
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Chang's Group at UCLA NLP",
+      "position": "Undergraduate Researcher",
+      "location": "Los Angeles, CA",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Studied long-context memory in embodied multi-agent systems, developing Temporary-LoRA–based mechanisms to improve knowledge persistence in VirtualHome simulations. Led large-scale synthetic dataset generation for multimodal agent training and co-authored a benchmark on embodied web agents.",
+      "highlights": [
+        "Temporary-LoRA adaptation for context retention in multi-agent settings.",
+        "Generated 10k+ first-person, multi-step embodied trajectories.",
+        "Co-author, NeurIPS 2025 Datasets & Benchmarks Spotlight."
+      ]
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "UCLA StarAI Lab",
+      "position": "Undergraduate Researcher",
+      "location": "Los Angeles, CA",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "summary": "Worked on structured reasoning for generative models, including constraint-guided decoding and discrete optimization. Reproduced structured diffusion results, built SDD-based decoding constraints for language models, and analyzed unbiased gradient estimators for Mixture-of-Experts routing.",
+      "highlights": [
+        "Reduced decoding-time constraint complexity via SDD compilation.",
+        "Empirical comparison of implicit vs explicit structure in generation.",
+        "Variance analysis of multi-sample estimators for discrete expert selection."
+      ]
+    },
+    {
+      "name": "CreatorHub",
+      "position": "Software Engineer Intern",
+      "location": "Los Angeles, CA",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      "summary": "Developed full-stack MVP features for a creator–brand platform, spanning backend APIs, database design, and authentication workflows. Emphasized schema correctness, security, and production-ready deployment.",
+      "highlights": [
+        "Delivered user-facing product features under startup timelines.",
+        "Defined MongoDB schemas with validation for consistency guarantees.",
+        "Implemented secure credential handling and recovery flows."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Robotic Manipulation with Robosuite",
+      "summary": "Trained and evaluated reinforcement-learning agents for simulated robotic manipulation using Robosuite, comparing PPO and SAC under sparse and dense reward regimes and diagnosing instability sources in exploration.",
+      "highlights": [
+        "PPO: ~90% task success after 10M environment steps.",
+        "SAC: full task success in <1M steps.",
+        "Identified reward-sparsity–induced mode collapse failure mode."
+      ],
+      "startDate": "2025-05-01",
+      "endDate": "2025-06-01",
+      "url": "https://sites.google.com/g.ucla.edu/rlinrobosuite/home"
+    },
+    {
+      "name": "Hallucination Detection",
+      "summary": "Proposed a hallucination-detection framework for medical question answering with retrieval-augmented LLMs, integrating model uncertainty and retrieval agreement to support safer EHR-based reasoning.",
+      "highlights": [
+        "Designed confidence score combining entropy, factuality, and retrieval similarity.",
+        "Formalized hallucination categories for clinical QA evaluation.",
+        "Benchmarking protocol for trust calibration in medical RAG systems."
+      ],
+      "startDate": "2025-03-01",
+      "endDate": "2025-06-01"
+    },
+    {
+      "name": "Novel View Synthesis",
+      "summary": "Analyzed classical and neural view-synthesis methods, comparing light-field rendering, NeRF variants, and 3D Gaussian Splatting with respect to efficiency, memory footprint, and visual fidelity.",
+      "highlights": [
+        "Comparative analysis across NeRF, Mip-NeRF 360, and splatting methods.",
+        "Identified regimes where Gaussian Splatting dominates in efficiency."
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "2024-03-01",
+      "url": "https://ucladeepvision.github.io/CS188-Projects-2024Winter/2024/03/22/team05-novel.html"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "Advanced",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "name": "ML / DL Frameworks",
+      "level": "Advanced",
+      "keywords": [
+        "PyTorch",
+        "Hugging Face Transformers",
+        "scikit-learn",
+        "DeepSpeed"
+      ]
+    },
+    {
+      "name": "Data & Visualization",
+      "level": "Advanced",
+      "keywords": [
+        "NumPy",
+        "Pandas",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Systems / Tooling",
+      "level": "Advanced",
+      "keywords": [
+        "Linux",
+        "Git",
+        "Docker",
+        "Weights & Biases"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "exploretech.la",
+      "location": "Los Angeles, CA",
+      "position": "Instructor and Mentor",
+      "url": "https://www.exploretech.la/",
+      "startDate": "2022-09-01",
+      "endDate": "",
+      "summary": "Designed and taught workshops on computer vision, generative AI, and NLP for 100+ students at exploretech.la’s annual outreach expo. Mentored high-school students from Title I schools in Los Angeles, introducing core ML concepts such as linear models and CNNs."
+    },
+    {
+      "organization": "Bruin Spacecraft Group",
+      "location": "Los Angeles, CA",
+      "position": "Webmaster",
+      "url": "",
+      "startDate": "2023-10-01",
+      "endDate": "2024-09-01",
+      "summary": "Led a team of 6 to redesign and maintain the club’s website, improving usability for sponsors and prospective members. Coordinated with 7 admin teams to ensure accurate project documentation and progress updates."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Multimodal and Embodied AI",
+      "keywords": [
+        "Vision-language models",
+        "Embodied agents",
+        "Grounded reasoning"
+      ]
+    },
+    {
+      "name": "Safety and Reliability",
+      "keywords": [
+        "Alignment",
+        "Guardrails",
+        "Hallucination detection",
+        "Trust calibration"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Chinese (Mandarin)",
+      "fluency": "Intermediate",
+      "icon": ""
     }
   ]
 }
