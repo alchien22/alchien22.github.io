@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "Email: alexchien22 [at] ucla [dot] edu"
 
 profile:
   align: right
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science undergraduate at UCLA. I work on multimodal and agentic AI, mostly around a question that keeps resurfacing for me: what should a system do when it realizes it might be wrong?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have done research in UCLA’s StarAI and NLP groups, where I was advised by Guy Van den Broeck, Ying-Nian Wu, and Kai-Wei Chang. My work has focused on structured reasoning, grounding, and understanding when language models drift or hallucinate, especially in settings where those failures carry real consequences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Alongside this, I am interested in creative applications of AI, including art, animation, and interactive systems that respond to human intent. Teaching is also a constant in my work. Through exploretech.la, I work with high school students encountering machine learning for the first time, and I have learned that ideas only stick when they survive real examples and honest questions. I want to build AI systems that do not just sound confident, but know when to slow down and revise their beliefs.
