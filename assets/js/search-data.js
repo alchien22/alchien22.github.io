@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -400,11 +393,66 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-blade-itself",
+          title: 'The Blade Itself',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/blade_itself/";
+            },},{id: "books-a-brave-new-world",
+          title: 'A Brave New World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/brave_new_world/";
+            },},{id: "books-circe",
+          title: 'Circe',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/circe/";
+            },},{id: "books-flowers-for-algernon",
+          title: 'Flowers for Algernon',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/flowers_for_algernon/";
+            },},{id: "books-how-to-stop-time",
+          title: 'How to Stop Time',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/how_to_stop_time/";
+            },},{id: "books-the-invisible-life-of-addie-larue",
+          title: 'The Invisible Life of Addie LaRue',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/invisible_life_of_addie_larue/";
+            },},{id: "books-the-nightingale",
+          title: 'The Nightingale',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nightingale/";
+            },},{id: "books-the-oddyssey",
+          title: 'The Oddyssey',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/odyssey/";
+            },},{id: "books-the-picture-of-dorian-gray",
+          title: 'The Picture of Dorian Gray',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/picture_of_dorian_gray/";
+            },},{id: "books-piranesi",
+          title: 'Piranesi',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/piranesi/";
+            },},{id: "books-the-way-of-kings",
+          title: 'The Way of Kings',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/way_of_kings/";
+            },},{id: "books-the-will-of-the-many",
+          title: 'The Will of the Many',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/will_of_the_many/";
             },},{id: "news-embodied-web-agents-was-accepted-to-neurips-2025-d-amp-amp-b-track-as-a-spotlight-paper",
           title: 'Embodied Web Agents was accepted to NeurIPS 2025 D&amp;amp;amp;B track as a spotlight...',
           description: "",
